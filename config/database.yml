@@ -9,12 +9,12 @@ default: &default
 
 development:
   <<: *default
-  database: ieat_dev
+  database: ieat_dev_dio
 
 
 test:
   <<: *default
-  database: ieat_test
+  database: ieat_test_dio
 
 production:
   <<: *default
