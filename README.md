@@ -1,24 +1,21 @@
-# README
+# Curso de Ruby on Rails
+### Digital Innovation One
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##  Da arquitetura ao deploy com Ruby
+### Conteúdo teórico e preparação
 
-Things you may want to cover:
+Temas: 
 
-* Ruby version
+* O que é Ruby on Rails, o projeto e Arquitetura MVC.
 
-* System dependencies
+* O que são gems e autenticação.
 
-* Configuration
+* CRUD - Controller, models e views.
 
-* Database creation
+* Testes e TDD.
 
-* Database initialization
+* Rendering -  Devise e Rails partials.
 
-* How to run the test suite
+* Jobs e Workers.
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Docker e deploy.
